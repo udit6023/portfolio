@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("heyaaa pushing my first code to github!!!");
+    printf("heyaaa pushing my first piece of code to github!!!");
 
     return 0;
 }
